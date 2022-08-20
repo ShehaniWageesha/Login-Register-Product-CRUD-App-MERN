@@ -1,5 +1,5 @@
 # MERN Stack | Login, Register and CRUD App
-Simlple example of user registration, login and CRUD action with backend restAPI using mongoDB, Nodejs(Express.js) and mongoose, authentication using JWT token also pagination and frontend using react.js and material-ui api calling with axios.
+Simple example of user registration, login and CRUD action with backend restAPI using mongoDB, Nodejs, Express.js and mongoose, authentication using JWT also pagination and frontend using react.js and material-ui api calling with axios.
 
 # Backend
 - API to register and login user.
